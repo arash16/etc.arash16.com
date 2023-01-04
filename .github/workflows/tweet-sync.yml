@@ -6,6 +6,7 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    environment: deploy
     steps:
     - uses: actions/setup-node@v3
       with:
