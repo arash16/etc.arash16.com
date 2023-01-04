@@ -247,5 +247,50 @@
     "urls": [
       "https://github.com/TheDevBlockChainJohn/Membot"
     ]
+  },
+  {
+    "id": "1610577464769785856",
+    "text": "@blockchain Can youu tell me if this is legal https://t.co/wuXYVf7jP3",
+    "createdAt": "2023-01-04T10:02:45.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1602779825042821120",
+      "name": "Ticiano Jiarui",
+      "username": "JiaruiTiciano",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1603623536974774273/YAwE3VUl_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610577416463720449",
+      "text": "What's been your first crypto purchase of 2023? 👇",
+      "createdAt": "2023-01-04T10:02:33.000Z",
+      "author": {
+        "id": "125304737",
+        "url": "https://t.co/5JkL22ArGd",
+        "name": "Blockchain.com",
+        "username": "blockchain",
+        "verified": true,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1268534114904391681/jXyihSx9_normal.png"
+      },
+      "metrics": {
+        "likes": 19,
+        "quotes": 0,
+        "replies": 26,
+        "retweets": 8
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot"
+    ]
   }
 ]

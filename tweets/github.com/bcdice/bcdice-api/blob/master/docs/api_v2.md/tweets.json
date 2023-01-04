@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1610578138874122243",
+    "text": "@ciel_vr https://t.co/TwrwibjEoT\n\n試してるAPIはここ\nhttps://t.co/JnKohxLj75",
+    "createdAt": "2023-01-04T10:05:26.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "3171977966",
+      "url": "https://t.co/Yl3aarW18G",
+      "name": "よっしー@VRでTRPGを遊ぼう！",
+      "username": "trpg_yoshi",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1528401390288388097/c4AyWrc3_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610577709918478336",
+      "text": "@trpg_yoshi ドキュメントのリンクもらえますか?",
+      "createdAt": "2023-01-04T10:03:43.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "1434731230872813570",
+        "name": "しえる",
+        "username": "ciel_vr",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1605965766422958080/u7Ff0fYf_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "ja",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "ja",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/bcdice/bcdice-api/blob/master/docs/api_v2.md",
+      "https://bcdice.onlinesession.app/v2/original_table"
+    ]
+  }
+]

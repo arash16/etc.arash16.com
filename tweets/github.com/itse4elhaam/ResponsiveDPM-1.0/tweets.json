@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1610577492427038722",
+    "text": "https://t.co/n4OQdeP9X3",
+    "createdAt": "2023-01-04T10:02:51.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1542096764970344455",
+      "name": "Elhaam",
+      "username": "centered_div",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1542121123915112450/x_5wJMTX_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610577488270213120",
+      "text": "#100DaysOfCode Day 10:\nI built a Drop-down Menu LP from frontendmentor. io alongside some custom animations &amp; colours.\nThe animation on the mobile versionwidth&lt;= 600px) is not loading properly when I click the button second time around.\n\nCan anyone help me out ? https://t.co/eFufxABudE",
+      "createdAt": "2023-01-04T10:02:50.000Z",
+      "author": {
+        "id": "1542096764970344455",
+        "name": "Elhaam",
+        "username": "centered_div",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1542121123915112450/x_5wJMTX_normal.jpg"
+      },
+      "metrics": {
+        "likes": 3,
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 2
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "media": [
+        null
+      ],
+      "urls": [
+        "https://twitter.com/centered_div/status/1610577488270213120/video/1"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "zxx",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/itse4elhaam/ResponsiveDPM-1.0"
+    ]
+  }
+]
