@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1610573967533740032",
+    "text": "@AntinKy Schau z.B. mal hier https://t.co/LqKPOThglT, Lüfter und Filter sind angegeben, zwei boxen habe ich mit diesen Komponenten hier stehen.",
+    "createdAt": "2023-01-04T09:48:51.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "62551551",
+      "name": "BlueDot 🌎 😷",
+      "username": "BlueDotFan",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1567791221430538240/TRxR17km_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610573289482502145",
+      "text": "@BlueDotFan Darf ich da mal einhaken? Ich hatte auch schonmal wegen der #CorsiRosentalBox recherchiert, aber hier in D ist es glaub ich schwer, die Komponenten dafür zu bekommen. Hast du da einen Tipp für mich?",
+      "createdAt": "2023-01-04T09:46:09.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "1521783578",
+        "name": "AntinKy 😷🇺🇦",
+        "username": "AntinKy",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1087061786052956160/cq_B8Pa2_normal.jpg"
+      },
+      "metrics": {
+        "likes": 1,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "de",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 1,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0
+    },
+    "lang": "de",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/wrichter/GermanyDYIAirCleaner"
+    ]
+  }
+]

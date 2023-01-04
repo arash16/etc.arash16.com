@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1610575561956679681",
+    "text": "https://t.co/LrMnDQvgwd\nと思ったらこれ 3 時間前に直っていた。タイムリー。 #neovim",
+    "createdAt": "2023-01-04T09:55:11.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "31149073",
+      "url": "https://t.co/BT6CuFIIBd",
+      "name": "delphinus",
+      "username": "delphinus35",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/432831151330189312/PCcXO8va_normal.png"
+    },
+    "replyTo": {
+      "id": "1610574767534534657",
+      "text": "あー、lazy.nvim、keys = { \"&lt;A-c&gt;\" } みたいに Alt (Option）キー使うマッピングだと上手く機能しない問題があるな。後で調べよう。 #neovim",
+      "createdAt": "2023-01-04T09:52:02.000Z",
+      "author": {
+        "id": "31149073",
+        "url": "https://t.co/BT6CuFIIBd",
+        "name": "delphinus",
+        "username": "delphinus35",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/432831151330189312/PCcXO8va_normal.png"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "ja",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "ja",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/folke/lazy.nvim/commit/507b695753b4a7e1eff75f578b7a04b6307e4bc6"
+    ]
+  }
+]

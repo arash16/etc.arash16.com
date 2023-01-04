@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1610572048262201344",
+    "text": "Caring for old code is a trait of good stewardship! Java 21 is slated for significant performance improvements for some older IO classes like ObjectInputStream and ObjectOutputStream via proposed (https://t.co/uDiJDHs7fs) improvements in https://t.co/wNQrj7Hzb7.Bits: https://t.co/FTdh52jcKm",
+    "createdAt": "2023-01-04T09:41:13.000Z",
+    "author": {
+      "id": "2736489059",
+      "name": "Per-Åke Minborg",
+      "username": "PMinborg",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/530056173014106112/0obo3GSz_normal.jpeg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlnmeTaWAAAbMIP.png",
+        "width": 785,
+        "height": 483
+      }
+    ],
+    "urls": [
+      "https://github.com/openjdk/jdk/pull/11840",
+      "http://java.io",
+      "https://twitter.com/PMinborg/status/1610572048262201344/photo/1"
+    ]
+  }
+]

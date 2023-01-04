@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1610576374778970112",
+    "text": "🏝🌪👀\nhttps://t.co/xO6uBgOAxa",
+    "createdAt": "2023-01-04T09:58:25.000Z",
+    "author": {
+      "id": "1460187634731520006",
+      "name": "dru.sol (he/him)",
+      "username": "onchaindru",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1608785999991037952/zKSykXFI_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "und",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/MonacoProtocol/sdk/discussions/52"
+    ]
+  }
+]

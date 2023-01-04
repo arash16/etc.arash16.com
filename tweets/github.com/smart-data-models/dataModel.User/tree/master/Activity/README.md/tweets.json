@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1610576780095639552",
+    "text": "Today's selected data model is Activity from subject dataModel.User link at https://t.co/lZYSSBDuCW",
+    "createdAt": "2023-01-04T10:00:02.000Z",
+    "author": {
+      "id": "1263885490664677376",
+      "url": "https://t.co/t95HwT74aN",
+      "name": "Smart Data Models",
+      "username": "SmartDataModels",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1439908086290993152/25hPXPxE_normal.png"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/smart-data-models/dataModel.User/tree/master/Activity/README.md"
+    ]
+  }
+]

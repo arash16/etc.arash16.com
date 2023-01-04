@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1610576483684057088",
+    "text": "If you need to #investigate a company on #LinkedIn,\n\nCrossLinked, a #cli #enumeration #tool, helps you extract employee names from an organization using search engines.\n\nhttps://t.co/drBPjgs7Gy…\n\n@m8sec\n\n#OSINT #SOCMINT #socialmedia #intelligence #investigation #reconnaissance https://t.co/CMjqo5pRzN",
+    "createdAt": "2023-01-04T09:58:51.000Z",
+    "author": {
+      "id": "1572597718001893379",
+      "name": "Mohammad Dehgan",
+      "username": "MohammadDehgan7",
+      "verified": false,
+      "imageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Flnqw8nWYAEVK7c.png",
+        "width": 866,
+        "height": 303
+      }
+    ],
+    "urls": [
+      "http://github.com/m8sec/CrossLin",
+      "https://twitter.com/MohammadDehgan7/status/1610576483684057088/photo/1"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1610571663749545985",
+    "text": "現在時間: 2023/1/4 17:39:41:922\nTREM | 臺灣即時地震監測\nhttps://t.co/dN1vEzxwii\nPowered by ExpTech\n#臺灣 #地震 #TREM #ExpTechTW #Taiwan #earthquake https://t.co/DdUYlDAunn",
+    "createdAt": "2023-01-04T09:39:42.000Z",
+    "author": {
+      "id": "1551552911792275457",
+      "name": "TREM",
+      "username": "ExpTechTW_TREM",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1551598301791010817/_gA8YELg_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "zh",
+    "replySettings": "everyone",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlnmYztagAQRm-4.jpg",
+        "width": 1264,
+        "height": 681
+      }
+    ],
+    "urls": [
+      "https://github.com/ExpTechTW/TREM/releases",
+      "https://twitter.com/ExpTechTW_TREM/status/1610571663749545985/photo/1"
+    ]
+  }
+]

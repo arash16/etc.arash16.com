@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1610574898568757249",
+    "text": "OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided\n  Mixup https://t.co/7SvIffHgkr\nComment: To be published in IEEE T-MM; Code is available at:\n  https://t.co/3k0U7U1KyD\n  Image Virtual try-on は、マルチメディアおよびコンピューター ビジ",
+    "createdAt": "2023-01-04T09:52:33.000Z",
+    "author": {
+      "id": "1550357939214757888",
+      "url": "https://t.co/LFp1zrSHj9",
+      "name": "arXiv翻訳【画像・音声・HCI】",
+      "username": "arXivjp_CvSdHci",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1552147712765677570/34zM2aiJ_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0
+    },
+    "lang": "ja",
+    "replySettings": "everyone",
+    "urls": [
+      "http://arxiv.org/abs/2301.00965v1",
+      "https://github.com/JyChen9811/DOC-VTON"
+    ]
+  }
+]

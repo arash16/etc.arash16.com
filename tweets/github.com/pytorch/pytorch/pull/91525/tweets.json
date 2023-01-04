@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1610575146234056704",
+    "text": "Very happy to see this @PyTorch PR hit master ❤️\n\nMake torch.device usable as a context manager\n\nhttps://t.co/3dxFXRfOTm",
+    "createdAt": "2023-01-04T09:53:32.000Z",
+    "author": {
+      "id": "16141659",
+      "url": "https://t.co/g86PJOlzlf",
+      "name": "Julien Chaumond",
+      "username": "julien_c",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1108502565925326850/zPsBf2BI_normal.png"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/pytorch/pytorch/pull/91525"
+    ]
+  }
+]

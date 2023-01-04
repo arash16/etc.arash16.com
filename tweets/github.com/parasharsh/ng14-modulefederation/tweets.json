@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1610576761477296128",
+    "text": "https://t.co/9JuvcsS4Lc  I could trace the issue. The compilation goes through if we add \"apilib/*\" instead of \"apilib\" in the config.resolve.alias. But if this is done this Sharing of modules (Singleton services ) does not work. @webpack",
+    "createdAt": "2023-01-04T09:59:57.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "848557124",
+      "name": "Shrinivas Parashar",
+      "username": "parasharsh",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1330047253277446144/NGLQ7R5z_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610154342954455040",
+      "text": "Compilation is failing with the \"Module not found: Error\" Compiler is not able to resolve the path alias.\n I have a path defined like \"apilib/*\" . So compiler gives error Can't resolve 'apilib/enum' . Any clue what can be wrong here. This was working fine with Angular 12",
+      "createdAt": "2023-01-03T06:01:25.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "848557124",
+        "name": "Shrinivas Parashar",
+        "username": "parasharsh",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1330047253277446144/NGLQ7R5z_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/parasharsh/ng14-modulefederation"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1610575545829580800",
+    "text": "Time to have a little fun. 🫡\n\nhttps://t.co/T1uuHqOHbo",
+    "createdAt": "2023-01-04T09:55:07.000Z",
+    "author": {
+      "id": "1165828495991291904",
+      "name": "ZXЯ0",
+      "username": "Zer0Access",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1607242272361283585/e4a7bGqs_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/microsoft/WSA"
+    ]
+  }
+]

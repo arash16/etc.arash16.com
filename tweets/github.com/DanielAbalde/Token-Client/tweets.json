@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1610573789632274432",
+    "text": "Hey #Solidity devs, try this package!\n\nIt abstracts the particular functionality of any NFT and fungible tokens into a single client to operate with tokens in a generic and elegant way.\n\nIt also allows to support new standards with the proxy pattern.\n\nhttps://t.co/a30RB28x72",
+    "createdAt": "2023-01-04T09:48:09.000Z",
+    "author": {
+      "id": "196404258",
+      "url": "https://t.co/oUu1UhIlVI",
+      "name": "daniga.eth",
+      "username": "DGANFT",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1468173123396816897/Bw7rJ3qd_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/DanielAbalde/Token-Client"
+    ]
+  }
+]

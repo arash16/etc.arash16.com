@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1610571171044462593",
+    "text": "@freeiran700 Hi! Please try our latest version of the app available on GitHub which improves reliability on restricted networks, to see if it helps: https://t.co/yQ4eYatwqe\n\nMake sure to first clear the cache and data from the current app and uninstall it before installing the new APK.",
+    "createdAt": "2023-01-04T09:37:44.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "759290106184359940",
+      "url": "https://t.co/KZJQVkpDnP",
+      "name": "Proton Support",
+      "username": "ProtonSupport",
+      "verified": true,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1529438774073118721/Qhr_l0tr_normal.png"
+    },
+    "replyTo": {
+      "id": "1610526006472806400",
+      "text": "@ProtonVPN After elevation in  filtering the internet by IR, proton vpn is not working now in Iran. This app has helped many people in Iran. Iranians appreciate it if you could release an update for Iran to resolve the issue.",
+      "createdAt": "2023-01-04T06:38:16.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "1574354507546378246",
+        "name": "freeiran",
+        "username": "freeiran700",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1574366917896425472/eU-88WQF_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/ProtonVPN/android-app/releases/download/4.3.80.3/ProtonVPN-4.4.92.5-hotfix.apk"
+    ]
+  },
+  {
+    "id": "1610570756592701441",
+    "text": "@Cyrus_A7 We apologize for the confusion. The APK provided in the previous link is outdated. To get access to the latest anti-censorship features that Proton VPN has to offer, please download the latest version of the app available here: https://t.co/yQ4eYatwqe.",
+    "createdAt": "2023-01-04T09:36:05.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "759290106184359940",
+      "url": "https://t.co/KZJQVkpDnP",
+      "name": "Proton Support",
+      "username": "ProtonSupport",
+      "verified": true,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1529438774073118721/Qhr_l0tr_normal.png"
+    },
+    "replyTo": {
+      "id": "1610469537312292864",
+      "text": "@ProtonSupport Is this version better than the version that exists in the Play Store?\nI mean, it looks like the version on the Play Store is more up-to-date.\nPlay Store: 4.4.92.0\nThis: 4.4.73.0",
+      "createdAt": "2023-01-04T02:53:53.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "1464543264216920068",
+        "name": "Cyrus",
+        "username": "Cyrus_A7",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1498200189798162437/8x7Yfk6L_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 0,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/ProtonVPN/android-app/releases/download/4.3.80.3/ProtonVPN-4.4.92.5-hotfix.apk"
+    ]
+  }
+]
