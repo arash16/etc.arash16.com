@@ -17,4 +17,4 @@ jobs:
       env:
         TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: node sync.js github.com
+      run: node sync.js arash16.com
