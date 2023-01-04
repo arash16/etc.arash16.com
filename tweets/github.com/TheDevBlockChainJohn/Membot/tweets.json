@@ -39,10 +39,10 @@
       ]
     },
     "metrics": {
-      "likes": 0,
-      "quotes": 0,
-      "replies": 0,
-      "retweets": 0
+      "likes": 50,
+      "quotes": 20,
+      "replies": 10,
+      "retweets": 5
     },
     "lang": "en",
     "replySettings": "everyone",
