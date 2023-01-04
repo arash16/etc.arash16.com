@@ -292,5 +292,201 @@
     "urls": [
       "https://github.com/TheDevBlockChainJohn/Membot"
     ]
+  },
+  {
+    "id": "1610580828916154373",
+    "text": "@Cointelegraph Whyy no one knows this https://t.co/1tMRWVJegJ",
+    "createdAt": "2023-01-04T10:16:07.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1602786793044287494",
+      "name": "Policarpa Karry",
+      "username": "KarryPolicarpa",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1603627019442462720/Ahl2DCMc_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610580752474701824",
+      "text": "Hear from the biggest thought leaders in crypto with Cointelegraph Podcasts. \n\nTune in here: https://t.co/G2VnXzuSiG https://t.co/kMqReQOxu9",
+      "createdAt": "2023-01-04T10:15:49.000Z",
+      "author": {
+        "id": "2207129125",
+        "url": "https://t.co/td5A2A8Lpc",
+        "name": "Cointelegraph",
+        "username": "Cointelegraph",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1270073276740534274/APmUBHaI_normal.jpg"
+      },
+      "metrics": {
+        "likes": 1,
+        "quotes": 0,
+        "replies": 4,
+        "retweets": 1
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "media": [
+        null
+      ],
+      "urls": [
+        "https://cointelegraph.com/podcasts",
+        "https://twitter.com/Cointelegraph/status/1610580752474701824/photo/1"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot"
+    ]
+  },
+  {
+    "id": "1610580005322465282",
+    "text": "@IcedKnife When do you stopp talking about it https://t.co/1tMRWVIGrb",
+    "createdAt": "2023-01-04T10:12:51.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1602786793044287494",
+      "name": "Policarpa Karry",
+      "username": "KarryPolicarpa",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1603627019442462720/Ahl2DCMc_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610579888594903042",
+      "text": "Would you believe me if I said I was still a virgin",
+      "createdAt": "2023-01-04T10:12:23.000Z",
+      "author": {
+        "id": "618539620",
+        "url": "https://t.co/Xdqne10h9L",
+        "name": "Iced ◢ dd ◤",
+        "username": "IcedKnife",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1593254346111602692/bnjt1A_r_normal.jpg"
+      },
+      "metrics": {
+        "likes": 6,
+        "quotes": 0,
+        "replies": 14,
+        "retweets": 1
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot"
+    ]
+  },
+  {
+    "id": "1610579948858740736",
+    "text": "@i_am_jackis Why noo one knows about this  https://t.co/4b84cd7xBG",
+    "createdAt": "2023-01-04T10:12:37.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1602800960333615110",
+      "name": "Aloa Beryl",
+      "username": "AloaBeryl",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1603633570089783296/_J8_Upau_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610579940201619459",
+      "text": "GM beautiful people ☕️ https://t.co/Y3aMn2BiRS",
+      "createdAt": "2023-01-04T10:12:35.000Z",
+      "author": {
+        "id": "938723248774270977",
+        "name": "JACKIS",
+        "username": "i_am_jackis",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1543935892397735937/4xAc9Ra2_normal.jpg"
+      },
+      "metrics": {
+        "likes": 13,
+        "quotes": 0,
+        "replies": 8,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "media": [
+        null
+      ],
+      "urls": [
+        "https://twitter.com/i_am_jackis/status/1610579940201619459/photo/1"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot"
+    ]
+  },
+  {
+    "id": "1610579873839431681",
+    "text": "@coingecko Whether thiss bug should be fixed it is actually melting liquidity https://t.co/wuXYVf6LZv",
+    "createdAt": "2023-01-04T10:12:19.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1602779825042821120",
+      "name": "Ticiano Jiarui",
+      "username": "JiaruiTiciano",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1603623536974774273/YAwE3VUl_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610579740800450563",
+      "text": "Source: https://t.co/EYQqTpHyTK",
+      "createdAt": "2023-01-04T10:11:47.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "2412652615",
+        "url": "https://t.co/QysxXRbiq6",
+        "name": "CoinGecko",
+        "username": "coingecko",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1604796574415978496/SIffz3a6_normal.jpg"
+      },
+      "metrics": {
+        "likes": 6,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "urls": [
+        "https://www.bloomberg.com/news/articles/2023-01-04/indonesia-to-start-crypto-exchange-ahead-of-regulatory-shift"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot"
+    ]
   }
 ]

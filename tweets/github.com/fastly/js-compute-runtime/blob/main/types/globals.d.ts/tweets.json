@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1610580017444196352",
+    "text": "Hmm, why crypto.subtle is commented out in typings 🤔\nhttps://t.co/yYyRKdagpi",
+    "createdAt": "2023-01-04T10:12:53.000Z",
+    "author": {
+      "id": "91502305",
+      "url": "https://t.co/7b1iJyFnQi",
+      "name": "Yoshiaki Sugimoto",
+      "username": "sgmtqq",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1559752722756550656/DW6iwI3Q_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/fastly/js-compute-runtime/blob/main/types/globals.d.ts#L1670"
+    ]
+  }
+]

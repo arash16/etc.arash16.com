@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1610580372013678593",
+    "text": "yuru7/udev-gothic: UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。 https://t.co/z5A1FjIGZ4 https://t.co/lZc7dNwaLS",
+    "createdAt": "2023-01-04T10:14:18.000Z",
+    "author": {
+      "id": "82704750",
+      "url": "https://t.co/Frf2aqdmXx",
+      "name": "Night☆",
+      "username": "MLO_Night",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1455895620620029952/DcM296Av_normal.png"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "ja",
+    "replySettings": "everyone",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlnuUBqXEAAZJlV.png",
+        "width": 547,
+        "height": 334
+      }
+    ],
+    "urls": [
+      "https://github.com/yuru7/udev-gothic",
+      "https://twitter.com/MLO_Night/status/1610580372013678593/photo/1"
+    ]
+  }
+]

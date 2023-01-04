@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1610580069042249728",
+    "text": "@liran_tal @maksimsinik @fastifyjs A note of lore. Fastify is at version 4. The plugin system is at version 8. This was rewritten a few times by @delvedor and myself back in 2016-2018. https://t.co/OIRKu7FBMx",
+    "createdAt": "2023-01-04T10:13:06.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "15979784",
+      "url": "https://t.co/cBeMUnpcNy",
+      "name": "Matteo Collina",
+      "username": "matteocollina",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1541698320443314179/4Cp5IrGB_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610578043025723393",
+      "text": "@liran_tal @maksimsinik @fastifyjs @liran_tal if you have some suggestions for good names for this, lmk.",
+      "createdAt": "2023-01-04T10:05:03.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "15979784",
+        "url": "https://t.co/cBeMUnpcNy",
+        "name": "Matteo Collina",
+        "username": "matteocollina",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1541698320443314179/4Cp5IrGB_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/fastify/avvio"
+    ]
+  }
+]

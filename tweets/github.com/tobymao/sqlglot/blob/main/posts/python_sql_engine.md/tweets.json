@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1610580796678737922",
+    "text": "Writing a Python SQL engine from scratch\nhttps://t.co/Y0lwc0P7jb\nArticle URL: https://t.co/Y0lwc0P7jb Comments URL: https://t.co/W80l0oCYJW Points: 100 # Comments: 15",
+    "createdAt": "2023-01-04T10:15:59.000Z",
+    "author": {
+      "id": "4639018735",
+      "url": "https://t.co/4PjAJdGJAE",
+      "name": "M157q News RSS",
+      "username": "M157q_News_RSS",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1117675544269615106/X3P5JLJ9_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md",
+      "https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md",
+      "https://news.ycombinator.com/item?id=34233697"
+    ]
+  }
+]

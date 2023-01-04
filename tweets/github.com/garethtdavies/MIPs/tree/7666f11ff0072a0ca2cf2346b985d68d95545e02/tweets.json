@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1610579631886815235",
+    "text": "Are you going to vote 'yes' for @_garethtdavies proposal to reduce @MinaProtocol supercharged rewards at the hard fork? You can vote here from 4pm (UTC) today (Jan 4th)  https://t.co/0x3XAJW0gI, more MIP info here... https://t.co/6GZa1ehHp7",
+    "createdAt": "2023-01-04T10:11:22.000Z",
+    "author": {
+      "id": "1412363024002957320",
+      "url": "https://t.co/6XYVc2kL5n",
+      "name": "Mina comMINAty",
+      "username": "minacryptocom",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1493921633635127306/shEXStG__normal.jpg"
+    },
+    "metrics": {
+      "likes": 2,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 1
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://bit.ly/MIP-1_Dashboard",
+      "https://github.com/garethtdavies/MIPs/tree/7666f11ff0072a0ca2cf2346b985d68d95545e02"
+    ]
+  }
+]
