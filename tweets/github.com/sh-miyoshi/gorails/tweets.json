@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1610576793366597632",
+    "text": "冬休みの宿題ってわけじゃないですが、GoとReactでRailsっぽくWebアプリをつくれるgorailsっていうのを作ってみました\nRailsっぽさを失わずそこそこちゃんとしたWebアプリを作れると思うので良ければ触ってみてください😊\nhttps://t.co/BsICL1SH81",
+    "createdAt": "2023-01-04T10:00:05.000Z",
+    "author": {
+      "id": "762276536019849217",
+      "name": "Shunsuke Miyoshi",
+      "username": "shmiyoshi",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1537063094672687105/Hjly3Gpr_normal.png"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0
+    },
+    "lang": "ja",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/sh-miyoshi/gorails"
+    ]
+  }
+]

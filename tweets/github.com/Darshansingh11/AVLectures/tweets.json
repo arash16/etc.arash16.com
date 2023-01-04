@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1610579237551104000",
+    "text": "This is joint work with Darshan Singh (@thought2vec), Anchit Gupta (@guptaanchit29) and C V Jawahar at @iiit_hyderabad!\n\nCheck our project page for code and data https://t.co/XNPYFZVNjg\nand read the paper at https://t.co/CYIEE8jmBc.\n\nOur first in using AI for education 🧑‍🏫! 7/7",
+    "createdAt": "2023-01-04T10:09:48.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "2884066036",
+      "url": "https://t.co/ifl7SCuigo",
+      "name": "Makarand Tapaswi",
+      "username": "MakarandTapaswi",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1396490604364718081/RmoSI8bA_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610579230970220546",
+      "text": "Our approach achieves reliable segmentation outputs as compared against various vision-only, text-only, and multimodal methods.\n\nThe learned embedding space also facilitates text-video retrieval. \"Graphs\" is particularly interesting showing different concepts.\n\n6/7 https://t.co/kuZMnCzqVE",
+      "createdAt": "2023-01-04T10:09:46.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "2884066036",
+        "url": "https://t.co/ifl7SCuigo",
+        "name": "Makarand Tapaswi",
+        "username": "MakarandTapaswi",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1396490604364718081/RmoSI8bA_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "media": [
+        null,
+        null
+      ],
+      "urls": [
+        "https://twitter.com/MakarandTapaswi/status/1610579230970220546/photo/1",
+        "https://twitter.com/MakarandTapaswi/status/1610579230970220546/photo/1"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/Darshansingh11/AVLectures",
+      "https://arxiv.org/abs/2210.16644"
+    ]
+  }
+]

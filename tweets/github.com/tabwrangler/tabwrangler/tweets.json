@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1610578868598972416",
+    "text": "@__mharrison__ I do not really manage them. But I have some care taking add-ons to keep the list of visible open tabs short and the browser memory consumption low.\n\n# to automatically discard inactive tabs\nhttps://t.co/aptsy71VB6\n\n# to automatically close unused tabs\nhttps://t.co/trSHK7kkHS",
+    "createdAt": "2023-01-04T10:08:20.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "2802571122",
+      "url": "https://t.co/34w9VFgeo1",
+      "name": "Frank Dietrich - @lamitpobus@troet.cafe",
+      "username": "lamitpobus",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1441123453751291907/vC3gK7e5_normal.png"
+    },
+    "replyTo": {
+      "id": "1602695408811233281",
+      "text": "How do you manage browser tabs? 🤪",
+      "createdAt": "2022-12-13T16:02:16.000Z",
+      "author": {
+        "id": "103961836",
+        "url": "https://t.co/QZJDddsbGm",
+        "name": "Matt Harrison",
+        "username": "__mharrison__",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1073679120737824769/HpbCeyHL_normal.jpg"
+      },
+      "metrics": {
+        "likes": 139,
+        "quotes": 8,
+        "replies": 125,
+        "retweets": 8
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://webextension.org/listing/tab-discard.html",
+      "https://github.com/tabwrangler/tabwrangler/"
+    ]
+  }
+]

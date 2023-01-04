@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1610575011131314177",
+    "text": "《 DBA 的軟體軍火庫 》\n\n» https://t.co/THim3vUrXe\n\n雖然不是每個標著 Awesome 的都很厲害，但這個確實還不錯，列出許多實用的工具。 https://t.co/Eb4r7v8y2Q",
+    "createdAt": "2023-01-04T09:53:00.000Z",
+    "author": {
+      "id": "14842888",
+      "url": "https://t.co/WabTLUx73R",
+      "name": "Ant",
+      "username": "yftzeng",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1276394688547700736/4bB27kD3_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "zh",
+    "replySettings": "everyone",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlnpXTXacAUhL6Y.jpg",
+        "width": 1200,
+        "height": 600
+      }
+    ],
+    "urls": [
+      "https://github.com/mgramin/awesome-db-tools",
+      "https://twitter.com/yftzeng/status/1610575011131314177/photo/1"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1610573565874552833",
+    "text": "I was gearing up to “let’s use more records this year” but not for Blazor at least as it bloats IL size and can’t be trimmed, see this discussion with example IL: https://t.co/p11p5uZQGi #dotnet #blazor",
+    "createdAt": "2023-01-04T09:47:15.000Z",
+    "author": {
+      "id": "3504714813",
+      "name": "Rogier van der Hee",
+      "username": "rogiervdhee",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1524442418568904704/KCvz48Lo_normal.jpg"
+    },
+    "metrics": {
+      "likes": 1,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/dotnet/aspnetcore/pull/45604#pullrequestreview-1235236715"
+    ]
+  }
+]

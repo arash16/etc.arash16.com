@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1610574300708306948",
+    "text": "Ingredients: \n1. React Native Skia: https://t.co/i8yckVO2Qn \n2. React Native Skia Gesture: https://t.co/idUKKpetUk",
+    "createdAt": "2023-01-04T09:50:10.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1234223143516082177",
+      "name": "Enzo Manuel Mangano",
+      "username": "reactiive_",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1523365322945970177/osaQVUc3_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610572097448706048",
+      "text": "Drag to Confirm animation in React Native 👇\n\nAvailable today on Patreon:  https://t.co/bnFO73Ajdi https://t.co/vJm8o0pWMR",
+      "createdAt": "2023-01-04T09:41:25.000Z",
+      "author": {
+        "id": "1234223143516082177",
+        "name": "Enzo Manuel Mangano",
+        "username": "reactiive_",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1523365322945970177/osaQVUc3_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "media": [
+        null
+      ],
+      "urls": [
+        "https://patreon.com/reactiive",
+        "https://twitter.com/reactiive_/status/1610572097448706048/video/1"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/Shopify/react-native-skia",
+      "https://github.com/enzomanuelmangano/react-native-skia-gesture"
+    ]
+  }
+]

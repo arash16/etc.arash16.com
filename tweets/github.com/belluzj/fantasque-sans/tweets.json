@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1610570879649419265",
+    "text": "@mdo For years I have been using Fantasque Sans Mono: https://t.co/fWKRdsXWz5",
+    "createdAt": "2023-01-04T09:36:35.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "21448863",
+      "name": "Theodoros Orfanidis",
+      "username": "teoulas",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/378800000369023929/98601760e831f08836bba2f39712e460_normal.jpeg"
+    },
+    "replyTo": {
+      "id": "1610420758383300608",
+      "text": "Been exploring tons of monospace fonts lately, so mentioning my top five or so here. What are your favorites?",
+      "createdAt": "2023-01-03T23:40:03.000Z",
+      "author": {
+        "id": "8207832",
+        "url": "https://t.co/wOaH3wpxIZ",
+        "name": "Mark Otto",
+        "username": "mdo",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1196263867178872832/BET9cPgr_normal.jpg"
+      },
+      "metrics": {
+        "likes": 122,
+        "quotes": 0,
+        "replies": 23,
+        "retweets": 5
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/belluzj/fantasque-sans"
+    ]
+  }
+]

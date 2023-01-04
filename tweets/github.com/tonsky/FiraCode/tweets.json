@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1610575866060476417",
+    "text": "@iqfareez @mdo +1 FiraCode https://t.co/ev6kjmZNnX",
+    "createdAt": "2023-01-04T09:56:24.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1239907836",
+      "url": "https://t.co/XRrGbazfP4",
+      "name": "big gina",
+      "username": "wiredsis",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1529973826267893777/au1g6tel_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1610543940381609985",
+      "text": "@mdo I like FiraCode &amp; Cascadia Code",
+      "createdAt": "2023-01-04T07:49:32.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "1224263036308877312",
+        "url": "https://t.co/UHk6uc3h8W",
+        "name": "fareez iqmal 🇲🇾",
+        "username": "iqfareez",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1432630526641197061/BBdkFiy3_normal.jpg"
+      },
+      "replyTo": {
+        "id": "1610420758383300608",
+        "text": "Been exploring tons of monospace fonts lately, so mentioning my top five or so here. What are your favorites?",
+        "createdAt": "2023-01-03T23:40:03.000Z",
+        "author": {
+          "id": "8207832",
+          "url": "https://t.co/wOaH3wpxIZ",
+          "name": "Mark Otto",
+          "username": "mdo",
+          "verified": false,
+          "imageUrl": "https://pbs.twimg.com/profile_images/1196263867178872832/BET9cPgr_normal.jpg"
+        },
+        "metrics": {
+          "likes": 122,
+          "quotes": 0,
+          "replies": 23,
+          "retweets": 5
+        },
+        "lang": "en",
+        "replySettings": "everyone"
+      },
+      "metrics": {
+        "likes": 1,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/tonsky/FiraCode"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1610577739593158657",
+    "text": "Added a bookmarklet to my GitHub page which lets you search for any text in http.response.body (datalayer) from data collected by https://t.co/cZTgfwESw5 . Please enjoy and use it responsibly😅\n\nLink:\nhttps://t.co/iFZ6FjV3Sb\n\n#osint #bookmarklet #censys",
+    "createdAt": "2023-01-04T10:03:50.000Z",
+    "author": {
+      "id": "1315278047994621959",
+      "url": "https://t.co/BI68nMf9nY",
+      "name": "K2SOSINT",
+      "username": "K_2SOsint",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1508791910344888320/GugN-ayc_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://Censys.io",
+      "https://github.com/K2SOsint/Bookmarklets"
+    ]
+  }
+]

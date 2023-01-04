@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1610574862006755329",
+    "text": "Kleber is gone. And so it went open source after all: https://t.co/SV0xxowxzj\n\nMaybe one day I’ll be bored enough to rewrite it in Rust? 🤷‍♀️",
+    "createdAt": "2023-01-04T09:52:24.000Z",
+    "author": {
+      "id": "1591083218",
+      "url": "https://t.co/ZhkYC27rLy",
+      "name": "Niklaus Schiess",
+      "username": "_takeshix",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1545326278919835651/f9wHh3x3_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/takeshixx/kleber"
+    ]
+  }
+]
