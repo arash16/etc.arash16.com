@@ -1,0 +1,15 @@
+name: Search Tweets and Save
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+    - name: Install Dependencies
+      run: curl "https://github.com/arash16/arash16.com/releases/download/tweetsync-1/sync.js"
+    - name: Sync Tweets to current Branch
+      run: node sync.js github.com
