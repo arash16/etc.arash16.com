@@ -12,7 +12,7 @@ jobs:
       with:
         node-version: '16'
     - name: Install Dependencies
-      run: curl -L "https://github.com/arash16/arash16.com/releases/download/tweetsync-1.1/sync.js" -o sync.js
+      run: curl -L "https://github.com/arash16/arash16.com/releases/download/tweetsync-1/sync.js" -o sync.js
     - name: Sync Tweets to current Branch
       env:
         TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
