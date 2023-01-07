@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1611819648000950274",
+    "text": "We will be using our updated @ck_framework on 🔥 libraries\n\nResearchKitOnFHIR \nhttps://t.co/6nt8b344cn\n\nHealthKitOnFHIR\nhttps://t.co/FeY4SWt1R8",
+    "createdAt": "2023-01-07T20:18:44.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "17698394",
+      "url": "https://t.co/iE0zfehbBL",
+      "name": "Oliver Aalami",
+      "username": "DrAalami",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/776177481455771648/K5MUKn-n_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611814324367917057",
+      "text": "Starting @SUBiodesign Building for Digital health this week, where @stanford students build 5 mobile clinical applications ranging from PRO collection to dermatology computer vision diagnostics using @ck_framework  💻\n#DiGiTALhealth  #FHIR \n\nhttps://t.co/wfpPR1bQPP https://t.co/dBqLCBu3ZS",
+      "createdAt": "2023-01-07T19:57:35.000Z",
+      "author": {
+        "id": "17698394",
+        "url": "https://t.co/iE0zfehbBL",
+        "name": "Oliver Aalami",
+        "username": "DrAalami",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/776177481455771648/K5MUKn-n_normal.jpg"
+      },
+      "metrics": {
+        "likes": 2,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "urls": [
+        "https://cs342.github.io/",
+        "https://twitter.com/i/web/status/1611814324367917057"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/StanfordBDHG/ResearchKitOnFHIR",
+      "https://github.com/StanfordBDHG/HealthKitOnFHIR"
+    ]
+  }
+]

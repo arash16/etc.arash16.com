@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1611816742719832066",
+    "text": "I shared the inital setup maybe it saves time for someone out there, at least it would have for me if it was available :)\n\nhttps://t.co/e4MbBw5F8Z\n\nUsing the unlicense/Public domain so anyone can whatever the want with it.",
+    "createdAt": "2023-01-07T20:07:12.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "3028911263",
+      "url": "https://t.co/9yToUgWrDk",
+      "name": "Zingo Andersen",
+      "username": "ninjazingo",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/565274422471168000/os8QOLQ2_normal.jpeg"
+    },
+    "replyTo": {
+      "id": "1611529683530665986",
+      "text": "Today i had kickoff for my next project, I manage to build/flash the LVGL demo for the Sunton ESP32 S3 800x400 devboard, now the fun can start. https://t.co/Zpng7ovrun",
+      "createdAt": "2023-01-07T01:06:31.000Z",
+      "author": {
+        "id": "3028911263",
+        "url": "https://t.co/9yToUgWrDk",
+        "name": "Zingo Andersen",
+        "username": "ninjazingo",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/565274422471168000/os8QOLQ2_normal.jpeg"
+      },
+      "metrics": {
+        "likes": 7,
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 1
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "media": [
+        null
+      ],
+      "urls": [
+        "https://twitter.com/ninjazingo/status/1611529683530665986/photo/1"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/zingo/Sunton_ESP32-8048S043"
+    ]
+  }
+]

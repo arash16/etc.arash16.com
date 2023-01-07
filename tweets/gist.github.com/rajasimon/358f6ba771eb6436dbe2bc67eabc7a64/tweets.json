@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1611814126174732289",
+    "text": "How do you serve your proxy application via Nginx? \n\nWhen I visit https://t.co/L2dPTVq4tX I get greated by Nginx default page. \n\nAll I want is when user visit http -&gt; redirect to https \n\nHELP NEEDED #buildinpublic  \n\nhttps://t.co/7EZL1EXpXB",
+    "createdAt": "2023-01-07T19:56:48.000Z",
+    "author": {
+      "id": "82060181",
+      "name": "Raja Simon 🚀",
+      "username": "rajasimon",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1548325562888093696/BXoVMr4C_normal.jpg"
+    },
+    "metrics": {
+      "likes": 1,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://preview-card.com/",
+      "https://gist.github.com/rajasimon/358f6ba771eb6436dbe2bc67eabc7a64"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1611817787181400064",
+    "text": "Better, more accurate and more human-like translations for GPT3 https://t.co/2slqD5D9gK #github #Python #Shell #Dockerfile",
+    "createdAt": "2023-01-07T20:11:21.000Z",
+    "author": {
+      "id": "1078992647933448192",
+      "url": "https://t.co/icFfFEUXMi",
+      "name": "First Issues Bot",
+      "username": "first_issues",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1099981721116659712/U96o-SWP_normal.png"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/Kav-K/GPT3Discord/issues/67"
+    ]
+  }
+]

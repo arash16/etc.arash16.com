@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1611815752041897984",
+    "text": "@javierluraschi @bernhardsson @DecFinney This sounds like a bug with @xarray_dev packaging. It should totally be installable from pip. We would love and issue from you to help track the problem you experienced. https://t.co/8GgqFEV2OV",
+    "createdAt": "2023-01-07T20:03:16.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "248827780",
+      "url": "https://t.co/3jjpZrPdV5",
+      "name": "Ryan Abernathey",
+      "username": "rabernat",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/709765120579280898/uZsB4A70_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611773188723314688",
+      "text": "@bernhardsson pip wasn’t installing c dependencies for xarray (cc @DecFinney) but Conda does, so we are planning to switch. https://t.co/BjqxAZh8HX",
+      "createdAt": "2023-01-07T17:14:08.000Z",
+      "type": "quoted",
+      "author": {
+        "id": "19675099",
+        "url": "https://t.co/bOFeP1cDhw",
+        "name": "Javier Luraschi",
+        "username": "javierluraschi",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1588470018412400641/vtqZk8Vq_normal.jpg"
+      },
+      "metrics": {
+        "likes": 1,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "urls": [
+        "https://twitter.com/decfinney/status/1605652378828554241"
+      ]
+    },
+    "metrics": {
+      "likes": 1,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/pydata/xarray/issues"
+    ]
+  }
+]

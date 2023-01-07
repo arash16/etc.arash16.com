@@ -488,5 +488,100 @@
     "urls": [
       "https://github.com/TheDevBlockChainJohn/Membot"
     ]
+  },
+  {
+    "id": "1611820342191718402",
+    "text": "@Pastore1314 Can you tell mee if this is legal https://t.co/HmL5Z4J8DS",
+    "createdAt": "2023-01-07T20:21:30.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611820326018756608",
+      "text": "If you want to have the chance to make some life-changing money, think about building your portfolio in bear markets instead of bull markets.",
+      "createdAt": "2023-01-07T20:21:26.000Z",
+      "author": {
+        "id": "4001513242",
+        "name": "Alejandro™ .DOT",
+        "username": "Pastore1314",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1577751085858668547/-vOZxj4D_normal.jpg"
+      },
+      "metrics": {
+        "likes": 3,
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 1
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot"
+    ]
+  },
+  {
+    "id": "1611815495065559040",
+    "text": "@scottmelker I am confused why this is allowed andd this is not prohibited https://t.co/HmL5Z4JGtq",
+    "createdAt": "2023-01-07T20:02:14.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611815415793029122",
+      "text": "Go Gators, beat Georgia. https://t.co/gZtjZE2Shw",
+      "createdAt": "2023-01-07T20:01:55.000Z",
+      "author": {
+        "id": "17351167",
+        "url": "https://t.co/jGoFzuOatq",
+        "name": "The Wolf Of All Streets",
+        "username": "scottmelker",
+        "verified": true,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1410248424168071170/AwkcX6MQ_normal.jpg"
+      },
+      "metrics": {
+        "likes": 11,
+        "quotes": 0,
+        "replies": 9,
+        "retweets": 1
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "media": [
+        null
+      ],
+      "urls": [
+        "https://twitter.com/scottmelker/status/1611815415793029122/video/1"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot"
+    ]
   }
 ]

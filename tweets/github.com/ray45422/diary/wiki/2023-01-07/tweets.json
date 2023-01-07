@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1611819077911314433",
+    "text": "日記\nhttps://t.co/3KpfsWMbUR",
+    "createdAt": "2023-01-07T20:16:28.000Z",
+    "author": {
+      "id": "337638106",
+      "url": "https://t.co/WkUXYbp60j",
+      "name": "けしずみ🧯",
+      "username": "ray45422",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1544685394696216578/5VMiMZSk_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "ja",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/ray45422/diary/wiki/2023-01-07"
+    ]
+  }
+]

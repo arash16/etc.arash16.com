@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1611820590872297472",
+    "text": "Charts from @MoritzGerstung \nhttps://t.co/JYsRS5jnS6",
+    "createdAt": "2023-01-07T20:22:29.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "2691675349",
+      "name": "Rob Whitehurst",
+      "username": "OYCar",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1588359056527216641/s4P-GKE-_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611820301565952000",
+      "text": "India has had a wave of the XBB family of sub variants already, now being supplanted by BA.5 subvariants family (so in the opposite sequence to most of the rest of the world). https://t.co/3lRir6PUZl https://t.co/SuSdmtzwYf",
+      "createdAt": "2023-01-07T20:21:20.000Z",
+      "type": "quoted",
+      "author": {
+        "id": "2691675349",
+        "name": "Rob Whitehurst",
+        "username": "OYCar",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1588359056527216641/s4P-GKE-_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "media": [
+        null,
+        null
+      ],
+      "urls": [
+        "https://twitter.com/OYCar/status/1611820301565952000/photo/1",
+        "https://twitter.com/OYCar/status/1611820301565952000/photo/1",
+        "https://twitter.com/RajeevJayadevan/status/1611568400983293953"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/gerstung-lab/SARS-CoV-2-International"
+    ]
+  }
+]

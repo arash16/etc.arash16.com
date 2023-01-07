@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1611815251938361347",
+    "text": "if anyone wants to take a looksie, eval can't read properties of undefined (reading 'ephemeral') in dev branch (which is moving the bot to d.js v14)\nhttps://t.co/CsSvkvfFWT",
+    "createdAt": "2023-01-07T20:01:16.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1275593480136507393",
+      "url": "https://t.co/FkowHhyKty",
+      "name": "➡️ @IDeletedSystem64@glaceon.social 🐀",
+      "username": "IDeleteSystem64",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1581052981574881280/hIo5IMx8_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611815248737992704",
+      "text": "currently stuck unable to work on my bot because i can't get help on it, and i can't figure out what the fucks breaking it\n\ni'm tempted to say \"i'm no longer maintaining this shit, go wait for 2.0\" because this code is making less and less sense to me and is becoming a pain (1/2)",
+      "createdAt": "2023-01-07T20:01:16.000Z",
+      "author": {
+        "id": "1275593480136507393",
+        "url": "https://t.co/FkowHhyKty",
+        "name": "➡️ @IDeletedSystem64@glaceon.social 🐀",
+        "username": "IDeleteSystem64",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1581052981574881280/hIo5IMx8_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/IDeletedSystem64/anitrox"
+    ]
+  }
+]

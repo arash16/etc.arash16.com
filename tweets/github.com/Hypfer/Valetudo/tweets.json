@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1611815993126359044",
+    "text": "https://t.co/MozEASpFOA Valetudo, progetto open source per liberare i robot aspirapolvere dal cloud https://t.co/QQDsgcOh8X . techonsapevole .",
+    "createdAt": "2023-01-07T20:04:13.000Z",
+    "author": {
+      "id": "1594619238442057728",
+      "name": "Techonsapevole @techonsapevole@mastodon.cloud",
+      "username": "techonsapevole",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1594619448111104002/O4hxiF-U_normal.png"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "it",
+    "replySettings": "everyone",
+    "urls": [
+      "https://t.me/techonsapevole/1040",
+      "https://github.com/Hypfer/Valetudo"
+    ]
+  }
+]

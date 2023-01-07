@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1611818851800616960",
+    "text": "5/ The model's weights, accompanied by training code and everything you need can be found here - https://t.co/S0nfgEQDxt",
+    "createdAt": "2023-01-07T20:15:35.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "47582717",
+      "name": "Itamar Golan",
+      "username": "ItakGol",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1607731843364753413/p8Rak9Qx_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611818849162375168",
+      "text": "4/ The paper, written by a team at a public university, is well-written and the methodology well-documented - https://t.co/PEcpHmqnuJ",
+      "createdAt": "2023-01-07T20:15:34.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "47582717",
+        "name": "Itamar Golan",
+        "username": "ItakGol",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1607731843364753413/p8Rak9Qx_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "urls": [
+        "https://arxiv.org/pdf/2210.02414.pdf"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/THUDM/GLM-130B"
+    ]
+  }
+]

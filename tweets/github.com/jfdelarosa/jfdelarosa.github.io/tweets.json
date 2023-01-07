@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1611818705989558274",
+    "text": "Actualicé mi portafolio y de paso lo migré de Nuxt 2 (SSG) a @astrodotbuild 😍\n\nQuiero crearme un blog y publicar cosas interesantes 👨🏽‍💻\nhttps://t.co/t4C0pdTTwM\n\nAquí está el código 👇🏽\nhttps://t.co/tgVDSQLoKA",
+    "createdAt": "2023-01-07T20:15:00.000Z",
+    "author": {
+      "id": "1069974221797904384",
+      "url": "https://t.co/IqzMNlvdjy",
+      "name": "Fernando de la Rosa 👨🏽‍💻🚀",
+      "username": "jfdelarosa",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1482261649675456516/FJdb1qs__normal.jpg"
+    },
+    "metrics": {
+      "likes": 1,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 1
+    },
+    "lang": "es",
+    "replySettings": "everyone",
+    "urls": [
+      "https://jfdelarosa.dev",
+      "https://github.com/jfdelarosa/jfdelarosa.github.io"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1611813763715596288",
+    "text": "CREATE README https://t.co/JdUMmHT0IF #github #Scala #TypeScript #SCSS #JavaScript #Java #CSS #Python #HTML #Shell #Ruby #TypeScript #CSS #JavaScript",
+    "createdAt": "2023-01-07T19:55:21.000Z",
+    "author": {
+      "id": "1078992647933448192",
+      "url": "https://t.co/icFfFEUXMi",
+      "name": "First Issues Bot",
+      "username": "first_issues",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1099981721116659712/U96o-SWP_normal.png"
+    },
+    "metrics": {
+      "likes": 2,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 3
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/losier/bhagavadgitaapi/issues/2"
+    ]
+  }
+]

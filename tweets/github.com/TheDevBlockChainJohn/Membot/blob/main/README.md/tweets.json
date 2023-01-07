@@ -1005,5 +1005,425 @@
     "urls": [
       "https://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
     ]
+  },
+  {
+    "id": "1611820330636480514",
+    "text": "@X__Anderson anyone knoww this https://t.co/psMo4b5hBr",
+    "createdAt": "2023-01-07T20:21:27.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611820287950987265",
+      "text": "You know what to do... https://t.co/gtxcIc2UiN",
+      "createdAt": "2023-01-07T20:21:17.000Z",
+      "type": "quoted",
+      "author": {
+        "id": "943060751668805633",
+        "url": "https://t.co/2FfWwoe2cw",
+        "name": "Anders 🏁",
+        "username": "X__Anderson",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1346955336654139395/JfT700Nx_normal.jpg"
+      },
+      "metrics": {
+        "likes": 9,
+        "quotes": 0,
+        "replies": 8,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "urls": [
+        "https://twitter.com/jimcramer/status/1611783153768697863"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
+  },
+  {
+    "id": "1611820245446004737",
+    "text": "@whale_alert Whether this bug should be fixed it is actuallyy melting liquidity https://t.co/fI6PgczG0s",
+    "createdAt": "2023-01-07T20:21:07.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611820152210833419",
+      "text": "🚨  12,710,116 #MATIC (10,238,179 USD) transferred from unknown wallet to #Kraken\n\nhttps://t.co/8wVrNlFgPL",
+      "createdAt": "2023-01-07T20:20:45.000Z",
+      "author": {
+        "id": "1039833297751302144",
+        "url": "https://t.co/UcJHiCQY7c",
+        "name": "Whale Alert",
+        "username": "whale_alert",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png"
+      },
+      "metrics": {
+        "likes": 11,
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 1
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "urls": [
+        "https://whale-alert.io/transaction/ethereum/0xb6bf64fc56601652082926e4170869331b5327ab4cf9097d32f1f354cb7119c9"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
+  },
+  {
+    "id": "1611819492589412357",
+    "text": "@Cointelegraph Anyonee know about Solidity https://t.co/psMo4b5hBr",
+    "createdAt": "2023-01-07T20:18:07.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611819451782922240",
+      "text": "The troubled bank allegedly transferred funds between FTX and Alameda; following a bank run, it discounted debt and fired staff members. https://t.co/GSJab5NOqZ",
+      "createdAt": "2023-01-07T20:17:58.000Z",
+      "author": {
+        "id": "2207129125",
+        "url": "https://t.co/td5A2A8Lpc",
+        "name": "Cointelegraph",
+        "username": "Cointelegraph",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1270073276740534274/APmUBHaI_normal.jpg"
+      },
+      "metrics": {
+        "likes": 15,
+        "quotes": 0,
+        "replies": 8,
+        "retweets": 4
+      },
+      "lang": "en",
+      "replySettings": "everyone",
+      "urls": [
+        "https://cointelegraph.com/news/silvergate-gets-more-bad-news-as-moody-s-slashes-its-ratings"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
+  },
+  {
+    "id": "1611819217636200448",
+    "text": "@Cointelegraph I just learned something that hass been active since 2018. does anyone know https://t.co/fI6PgcAdQ0",
+    "createdAt": "2023-01-07T20:17:02.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611819181787209730",
+      "text": "The firm announced the \"Mastercard Artist Accelerator\" program via a Jan. 7 blog post, outlining that from this spring, it will connect five emerging musicians from across the globe with mentors that will  help them set up their brand in the Web3 music space.",
+      "createdAt": "2023-01-07T20:16:53.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "2207129125",
+        "url": "https://t.co/td5A2A8Lpc",
+        "name": "Cointelegraph",
+        "username": "Cointelegraph",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1270073276740534274/APmUBHaI_normal.jpg"
+      },
+      "metrics": {
+        "likes": 13,
+        "quotes": 0,
+        "replies": 5,
+        "retweets": 2
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
+  },
+  {
+    "id": "1611818879902257152",
+    "text": "@bitcoinlfgo why no one talks about it. iss it not legal https://t.co/psMo4b5hBr",
+    "createdAt": "2023-01-07T20:15:41.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611818828471885824",
+      "text": "You have $1,000. What are you buying?",
+      "createdAt": "2023-01-07T20:15:29.000Z",
+      "author": {
+        "id": "1296337092302139396",
+        "url": "https://t.co/jEXHVIdWY1",
+        "name": "BITCOINLFG®",
+        "username": "bitcoinlfgo",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1607776101270708224/_6eF4Eze_normal.jpg"
+      },
+      "metrics": {
+        "likes": 13,
+        "quotes": 0,
+        "replies": 8,
+        "retweets": 3
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
+  },
+  {
+    "id": "1611818850680553473",
+    "text": "@Cointelegraph How can I implementt this https://t.co/psMo4b5hBr",
+    "createdAt": "2023-01-07T20:15:34.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611818831541837825",
+      "text": "For the Metaverse to reach its full potential, the report highlighted the need for four technology enablers, interoperability and open standards, facilitating platforms and development tools.",
+      "createdAt": "2023-01-07T20:15:30.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "2207129125",
+        "url": "https://t.co/td5A2A8Lpc",
+        "name": "Cointelegraph",
+        "username": "Cointelegraph",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1270073276740534274/APmUBHaI_normal.jpg"
+      },
+      "metrics": {
+        "likes": 11,
+        "quotes": 0,
+        "replies": 6,
+        "retweets": 2
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
+  },
+  {
+    "id": "1611818454167818240",
+    "text": "@tedcruz When do you stop talkingg about it https://t.co/psMo4b5hBr",
+    "createdAt": "2023-01-07T20:14:00.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611818394822623234",
+      "text": "Inaceptable. Maduro es un tirano. https://t.co/Njp1BTutyS",
+      "createdAt": "2023-01-07T20:13:46.000Z",
+      "type": "quoted",
+      "author": {
+        "id": "23022687",
+        "url": "https://t.co/lnlr5V66T7",
+        "name": "Ted Cruz",
+        "username": "tedcruz",
+        "verified": true,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1322868917350633473/XVo77UyL_normal.jpg"
+      },
+      "metrics": {
+        "likes": 101,
+        "quotes": 1,
+        "replies": 26,
+        "retweets": 28
+      },
+      "lang": "es",
+      "replySettings": "everyone",
+      "urls": [
+        "https://twitter.com/jorgeagobian/status/1611504133474865158"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
+  },
+  {
+    "id": "1611818307882999811",
+    "text": "@BigCheds I can use thiss all the time https://t.co/psMo4b5hBr",
+    "createdAt": "2023-01-07T20:13:25.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611818192996794368",
+      "text": "Cheds loves you",
+      "createdAt": "2023-01-07T20:12:58.000Z",
+      "author": {
+        "id": "129935623",
+        "url": "https://t.co/rFho0CNrNF",
+        "name": "Cheds (Trading Quotes)",
+        "username": "BigCheds",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1392285045012959236/yviT9T7A_normal.jpg"
+      },
+      "metrics": {
+        "likes": 57,
+        "quotes": 0,
+        "replies": 20,
+        "retweets": 4
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
+  },
+  {
+    "id": "1611817201115303939",
+    "text": "@CryptoAnglio I think whaless are using it all the time 🐳  https://t.co/fI6PgczG0s",
+    "createdAt": "2023-01-07T20:09:01.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1604012729815154689",
+      "name": "Arne Quiteria",
+      "username": "ArneQuiteria",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1605060676786995201/ecSg8aeb_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611817162909401088",
+      "text": "Who’s active rn? 👇👇",
+      "createdAt": "2023-01-07T20:08:52.000Z",
+      "author": {
+        "id": "2729214382",
+        "name": "Anglio",
+        "username": "CryptoAnglio",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1539914688611459074/jnZfe1Rf_normal.jpg"
+      },
+      "metrics": {
+        "likes": 103,
+        "quotes": 0,
+        "replies": 75,
+        "retweets": 19
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/TheDevBlockChainJohn/Membot/blob/main/README.md"
+    ]
   }
 ]

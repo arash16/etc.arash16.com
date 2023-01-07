@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1611814453472796674",
+    "text": "این دوتا برنامه رو میتوانید مستقیما از گیتهاب با لینک های که در زیر قرارداده شده اند دانلود و نصب کنید. (لینک های گیتهاب فیلتر نیستن)\n\nhttps://t.co/tWH6lQsgbL\n\nhttps://t.co/XYMB18CDqA\n\nیا میتوانید از گوگل پلی نصب کنید.\n\nhttps://t.co/NRJ83vSamg\n\nhttps://t.co/O6iD3o08pc",
+    "createdAt": "2023-01-07T19:58:06.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1364452397406380038",
+      "url": "https://t.co/6ngbXfCzbB",
+      "name": "Internet4Iran",
+      "username": "_internet4iran",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1610033665030897665/UwtWLpX1_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611814442932572163",
+      "text": "۴- بر روی علامت (کاغذ با علامت +) بالای صفحه کلیک کنید. گزینه ی import from clipboard رو بزنید.\n۵- پس از این کار سرور جدیدی به نمایش میاد. روی اون سرور کلیک کنید.\n۶- در انتها برای وصل شدن علامت موشک کاغذی در پایین صفحه رو بزنید. \n۲/",
+      "createdAt": "2023-01-07T19:58:03.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "1364452397406380038",
+        "url": "https://t.co/6ngbXfCzbB",
+        "name": "Internet4Iran",
+        "username": "_internet4iran",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1610033665030897665/UwtWLpX1_normal.jpg"
+      },
+      "metrics": {
+        "likes": 2,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "fa",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 2,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "fa",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.2.6/shadowsocks--universal-v5.2.6.apk",
+      "https://github.com/shadowsocks/v2ray-plugin-android/releases/download/v1.3.3/v2ray--universal-1.3.3.apk",
+      "https://play.google.com/store/apps/details?id=com.github.shadowsocks",
+      "https://play.google.com/store/apps/details?id=com.github.shadowsocks.plugin.v2ray"
+    ]
+  }
+]

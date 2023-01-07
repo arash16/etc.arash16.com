@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1611819082118213633",
+    "text": "Awesome bugbounty tools\n\nA curated list of various bug bounty tools\nhttps://t.co/r0nbfOqgij\n\n#bugbounty #infosecurity #informationsecurity",
+    "createdAt": "2023-01-07T20:16:29.000Z",
+    "author": {
+      "id": "1559942037406945281",
+      "name": "Nik H",
+      "username": "Nikahverse",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1607061228819566593/ZuWM23vz_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/vavkamil/awesome-bugbounty-tools"
+    ]
+  }
+]

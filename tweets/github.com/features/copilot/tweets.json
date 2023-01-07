@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1611816069047648256",
+    "text": "Sometime back I had moved my $GTLB repos to GitHub with all my CI/CD pipelines on Azure.\nNow GitHub Copilot built in collaboration with Open AI is an indication where things are headed. And the best devs still share their code on GitHub. Good luck $GTLB!\n\nhttps://t.co/FTHJ6ZjcD0",
+    "createdAt": "2023-01-07T20:04:31.000Z",
+    "author": {
+      "id": "1483767974196432899",
+      "name": "ronjonbSaaS",
+      "username": "ronjonbSaaS",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1487151506520358915/bLItURK5_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/features/copilot"
+    ]
+  }
+]

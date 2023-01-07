@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1611819762992152576",
+    "text": "@pabloperez__ Trucazo: si utilizas templates a tope para que el compilador sea capaz de hacer el type checking de las fprs, ya no te hace falta gestionar memoria porque te lo hace el compilado https://t.co/WVkYceoHiP",
+    "createdAt": "2023-01-07T20:19:12.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1179883161641242625",
+      "url": "https://t.co/WTMcYh942G",
+      "name": "Daniel",
+      "username": "CastilloDel_",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1491402678123040768/iAx0Sex-_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611754773094481920",
+      "text": "Herencia, polimorfismo, funciones lambda, gestión de memoria y punteros compartidos para hacer una simple potencia de dos números 💀🤡",
+      "createdAt": "2023-01-07T16:00:57.000Z",
+      "author": {
+        "id": "1187022644694212609",
+        "url": "https://t.co/7hCxoOv3MY",
+        "name": "Pablo 🎄🇦🇷🇮🇨",
+        "username": "pabloperez__",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1443316115896164361/2t9-ceKV_normal.jpg"
+      },
+      "metrics": {
+        "likes": 7,
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 0
+      },
+      "lang": "es",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 1,
+      "retweets": 0
+    },
+    "lang": "es",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/Daniel-del-Castillo/CC3"
+    ]
+  }
+]

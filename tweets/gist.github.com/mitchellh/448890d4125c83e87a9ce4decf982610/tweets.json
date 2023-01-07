@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1611817655299866624",
+    "text": "Spent this Saturday morning building an intrusive heap implementation in Zig based on pairing heaps: https://t.co/lPm40zHjfR Its fun building intrusive-variants of data structures. Haven't used it much yet so could be bugs but I plan on using it and will keep the gist up to date. https://t.co/TFXiqwp3N6",
+    "createdAt": "2023-01-07T20:10:49.000Z",
+    "author": {
+      "id": "12819682",
+      "url": "https://t.co/w9Itp3hwEC",
+      "name": "Mitchell Hashimoto",
+      "username": "mitchellh",
+      "verified": true,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1141762999838842880/64_Y4_XB_normal.jpg"
+    },
+    "metrics": {
+      "likes": 8,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fl5TnCVagAMTRjU.jpg",
+        "width": 1800,
+        "height": 1534
+      }
+    ],
+    "urls": [
+      "https://gist.github.com/mitchellh/448890d4125c83e87a9ce4decf982610",
+      "https://twitter.com/mitchellh/status/1611817655299866624/photo/1"
+    ]
+  }
+]

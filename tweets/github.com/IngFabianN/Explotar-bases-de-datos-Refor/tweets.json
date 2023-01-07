@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1611813676398555136",
+    "text": "datos falsos el codigo esta en mi GitHub esta en Python https://t.co/0XotBTxGsL",
+    "createdAt": "2023-01-07T19:55:01.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "1494715440878260226",
+      "name": "Fabián Navarro",
+      "username": "FabianN_420",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1556726457040248833/n6Aaqi_l_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611813673965686789",
+      "text": "Mae hoy en la madrugada no podia dormir y estaba muy aburrido, entonces vi que a mucha gente aqui le llegan  mensajes de que tiene que pagar el Netflix y esos mensajes son de la reforma https://t.co/NDqlBd9pQg entonces hice un codigo que les explota las bases de datos de puros",
+      "createdAt": "2023-01-07T19:55:00.000Z",
+      "author": {
+        "id": "1494715440878260226",
+        "name": "Fabián Navarro",
+        "username": "FabianN_420",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1556726457040248833/n6Aaqi_l_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "es",
+      "replySettings": "everyone",
+      "urls": [
+        "http://netflxcosta.com"
+      ]
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "es",
+    "replySettings": "everyone",
+    "urls": [
+      "https://github.com/IngFabianN/Explotar-bases-de-datos-Refor"
+    ]
+  }
+]

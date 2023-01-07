@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1611818604176998402",
+    "text": "@thettbd I've found D3DWindower to be much simpler to use and less prone to misconfiguration: https://t.co/mUz4Ut6rEp\n\nA native windowed mode is on the list of issues to be addressed in future commissions: https://t.co/B5hkg9yJZz\nShould have some capacity for it near the end of the month.",
+    "createdAt": "2023-01-07T20:14:36.000Z",
+    "type": "replied_to",
+    "author": {
+      "id": "3039346587",
+      "url": "https://t.co/z2k0cbzRxB",
+      "name": "ReC98",
+      "username": "ReC98Project",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/816821949225730048/CzXp6PgO_normal.jpg"
+    },
+    "replyTo": {
+      "id": "1611807127776989187",
+      "text": "@ReC98Project is there any way to get this to run in windowed mode? it seems like seihou 1 forces fullscreen and using something like dxwnd even with the patch causes it to lag really badly",
+      "createdAt": "2023-01-07T19:28:59.000Z",
+      "type": "replied_to",
+      "author": {
+        "id": "816377661937176576",
+        "url": "https://t.co/bcrJyqViNE",
+        "name": "ttbd",
+        "username": "thettbd",
+        "verified": false,
+        "imageUrl": "https://pbs.twimg.com/profile_images/1135694134730219521/uFSkezNn_normal.jpg"
+      },
+      "metrics": {
+        "likes": 0,
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 0
+      },
+      "lang": "en",
+      "replySettings": "everyone"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "https://community.pcgamingwiki.com/files/file/733-d3dwindower-english/",
+      "https://github.com/nmlgc/ssg/issues/7"
+    ]
+  }
+]
