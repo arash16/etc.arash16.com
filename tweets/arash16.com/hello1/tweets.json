@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1612191886344699910",
+    "text": "https://t.co/rLOhRMBnCP\nhttps://t.co/DKu0OVwZfZ\nHello12",
+    "createdAt": "2023-01-08T20:57:53.000Z",
+    "author": {
+      "id": "1449713556958728193",
+      "url": "https://t.co/8X7GpVBJT6",
+      "name": "Hikingo",
+      "username": "HikingoLand",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1449713652555292677/dD3i5_w3_normal.jpg"
+    },
+    "metrics": {
+      "likes": 0,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://Arash16.com/hello1",
+      "http://Arash16.com/hello2"
+    ]
+  }
+]
