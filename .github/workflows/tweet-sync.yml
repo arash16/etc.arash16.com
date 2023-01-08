@@ -2,6 +2,11 @@ name: Search Tweets and Save
 on:
   workflow_dispatch:
     inputs:
+      domain:
+        description: 'Domain to sync'
+        required: true
+        default: arash16.com
+        type: string
       action:
         description: 'Action'
         required: true
@@ -48,4 +53,4 @@ jobs:
         TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ACTION: ${{ inputs.action }}
-      run: node sync.js arash16.com ${{ inputs.action }}
+      run: node sync.js ${{ inputs.domain }} ${{ inputs.action }}
