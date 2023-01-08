@@ -1,8 +1,19 @@
 name: Search Tweets and Save
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'Action'
+        required: true
+        default: 'fetch'
+        type: choice
+        options:
+        - fetch
+        - metrics
   schedule:
     - cron: '*/30 * * * *'
+    - cron: '0 */6 * * *'
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -11,10 +22,30 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: '16'
+
     - name: Install Dependencies
       run: curl -L "https://github.com/arash16/arash16.com/releases/download/tweetsync-1/sync.js" -o sync.js
-    - name: Sync Tweets to current Branch
+
+    - name: Fetch new tweets
+      if: github.event.schedule == '*/30 * * * *'
       env:
         TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: node sync.js arash16.com
+        ACTION: fetch
+      run: node sync.js arash16.com fetch
+
+    - name: Refetch and sync metrics for hot tweets (recent 3 days)
+      if: github.event.schedule == '0 */6 * * *'
+      env:
+        TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ACTION: metrics
+      run: node sync.js arash16.com metrics
+
+    - name: Manual run
+      if: ${{ inputs.action }}
+      env:
+        TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ACTION: ${{ inputs.action }}
+      run: node sync.js arash16.com ${{ inputs.action }}
