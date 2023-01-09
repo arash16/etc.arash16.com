@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1612189719777144833",
+    "text": "This is a new tweet\nhttp://Arash16.com/hello",
+    "createdAt": "2023-01-08T20:49:16.000Z",
+    "author": {
+      "id": "1449713556958728193",
+      "url": "https://t.co/8X7GpVBJT6",
+      "name": "Hikingo",
+      "username": "HikingoLand",
+      "verified": false,
+      "imageUrl": "https://pbs.twimg.com/profile_images/1449713652555292677/dD3i5_w3_normal.jpg"
+    },
+    "metrics": {
+      "likes": 1,
+      "quotes": 0,
+      "replies": 0,
+      "retweets": 0
+    },
+    "lang": "en",
+    "replySettings": "everyone",
+    "urls": [
+      "http://Arash16.com/hello"
+    ]
+  }
+]
